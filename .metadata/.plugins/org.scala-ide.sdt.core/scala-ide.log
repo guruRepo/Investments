@@ -1,0 +1,10 @@
+2018-10-17 14:20:17,639 ERROR [main] - System.err - [org.eclipse.jdt.groovy.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.groovy.core.util.ScriptFolderSelector
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2018-10-17 14:20:20,243 ERROR [Worker-2] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.model.IDebugModelProvider
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
