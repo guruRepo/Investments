@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class InputController {
 
 
-	@RequestMapping(value = "/investments")
+	@RequestMapping(value = "/dashboard")
 	@ResponseBody
 	public String getInvestments() {
-		return "hello investments";
+		return "Hello Credit research team!";
 	}
 }
