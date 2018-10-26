@@ -12,6 +12,6 @@ public class InputController {
 	@RequestMapping(value = "/investments")
 	@ResponseBody
 	public String getInvestments() {
-		return "hello investments";
+		return "hello Credit research team";
 	}
 }
